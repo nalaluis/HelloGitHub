@@ -16,7 +16,7 @@
 
 This is a project for **novice programmers**, **programming lovers**, and **open-source community lovers**. And the content will be updated and published as a **monthly** magazine. The contents include: **popular projects**, **entry-level projects**, **tools to make life better**, **books**, **learning notes**, **enterprise projects**, etc. Most of these open source projects are very easy to start, very cool and can make you feel the pleasure and the magic of programming in a very short time. So that we can feel the joy of programming, and begin to program.
 
-It is hoped that through this project, more and more people will join the **open-source community** and contribute to the community. Let these interesting and valuable projects be discovered, concerned, participated and contributed by more people. In the process of participating in these projects, you will learn more programming knowledge 📚, improve programming skills 💻, and find the pleasure of programming 🎮.
+It is hoped that through this project, more and more people will join the **open-source community** and contribute to the community. Let these interesting and valuable projects be discovered, concerned, participated and contributed by more people. In the process of participating in these projects, you will learn more programming knowledge 📚, find the pleasure of programming  **Personal note I forked this repo to issues that find particularly useful for Python beginners. My personal highlights are marked with ⭐ in my local notes.
 
 ## Content
 
@@ -24,16 +24,5 @@ Will be released on the **28th of each month**. [Website](https://hellogithub.co
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [NO.120](/content/en/HelloGitHub120.md) | [NO.119](/content/en/HelloGitHub119.md) | [NO.118](/content/en/HelloGitHub118.md) | [NO.117](/content/en/HelloGitHub117.md) | [NO.116](/content/en/HelloGitHub116.md) |
-| [NO.115](/content/en/HelloGitHub115.md) | [NO.114](/content/en/HelloGitHub114.md) | [NO.113](/content/en/HelloGitHub113.md) | [NO.112](/content/en/HelloGitHub112.md) | [NO.111](/content/en/HelloGitHub111.md) |
-| [NO.110](/content/en/HelloGitHub110.md) | [NO.109](/content/en/HelloGitHub109.md) | [NO.108](/content/en/HelloGitHub108.md) | [NO.107](/content/en/HelloGitHub107.md) | [NO.106](/content/en/HelloGitHub106.md) |
-| [NO.105](/content/en/HelloGitHub105.md) | [NO.104](/content/en/HelloGitHub104.md) | [NO.103](/content/en/HelloGitHub103.md) | [NO.102](/content/en/HelloGitHub102.md) | [NO.101](/content/en/HelloGitHub101.md) |
-| [NO.100](/content/en/HelloGitHub100.md) | [NO.99](/content/en/HelloGitHub99.md) | [NO.98](/content/en/HelloGitHub98.md) | [NO.97](/content/en/HelloGitHub97.md) | [NO.96](/content/en/HelloGitHub96.md) |
-| [NO.95](/content/en/HelloGitHub95.md) | [NO.94](/content/en/HelloGitHub94.md) | [NO.93](/content/en/HelloGitHub93.md) | [NO.92](/content/en/HelloGitHub92.md) | [NO.91](/content/en/HelloGitHub91.md) |
-| [NO.90](/content/en/HelloGitHub90.md) | [NO.89](/content/en/HelloGitHub89.md) | [NO.88](/content/en/HelloGitHub88.md) | [NO.87](/content/en/HelloGitHub87.md) | [NO.86](/content/en/HelloGitHub86.md) |
-| [NO.85](/content/en/HelloGitHub85.md) | [NO.84](/content/en/HelloGitHub84.md) | [NO.83](/content/en/HelloGitHub83.md) | [NO.82](/content/en/HelloGitHub82.md) | [NO.81](/content/en/HelloGitHub81.md) |
-
-
-## Licence
-
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en"><img alt="CC BY-NC-ND 4.0" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>This work is under the <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en">CC BY-NC-ND 4.0</a> Lisence.
+| [NO.120](/content/en/HelloGitHub120.md) | [NO.119](/content/en/HelloGitHub119.md) | [NO.118](/content/en/HelloGitHub118.md) | [NO.117](/content/en/HelloGitGitHub116.md) |
+| [NO.115](/content/en/HelloGitHub115.md) | [NO.114](/content/en/HelloGitHub114.md) | [NO.113](/content/en/HelloGitHub113.md) | [NO.112](/content/en/HelloGitHub112.md) | [NO.111](/content/en/HelloGi
